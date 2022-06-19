@@ -5,8 +5,8 @@
 ## Interested in
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=18819e)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&color=61DAFB)
-![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=bash&color=4b9e3e)
-![](https://img.shields.io/badge/Code-Mysql-informational?style=flat&logo=Mysql&color=ed5247)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnubash&color=4b9e3e)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=Mysql&color=ed5247)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&color=122ae0)
