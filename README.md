@@ -1,6 +1,6 @@
 ## Hi, I am Lenos 👋
 
-<p> I am a Site Reliability Engineer at <a href="https://twitter.com/home">Twitter</a> and currently working on distributed databases ensuring scalability, reliability and high performance</p>
+<p> I am a Site Reliability Engineer - AIML at <a href="https://github.com/apple">Apple</a></p>
 
 ## Interested in
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=18819e)
