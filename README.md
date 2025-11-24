@@ -1,6 +1,6 @@
 ## Hi, I am Lenos 👋
 
-<p> I am a Site Reliability Engineer - AIML at <a href="https://github.com/apple">Apple</a></p>
+<p> I am a Production Engineer at <a href="https://github.com/facebook">Meta</a></p>
 
 ## Interested in
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=18819e)
